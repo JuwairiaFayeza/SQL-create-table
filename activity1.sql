@@ -1,0 +1,16 @@
+-- CREATE TABLE fayeza (
+
+-- SNO TEXT PRIMARY KEY,
+
+-- SNAME TEXT,
+
+-- STATUS INTEGER,
+
+-- CITY TEXT
+
+-- );
+
+INSERT INTO fayeza (SNO, SNAME, STATUS, CITY) VALUES
+
+('S3', 'Namira', 18, 'Seoul');
+SELECT * FROM fayeza;
